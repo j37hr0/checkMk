@@ -1,6 +1,6 @@
 # checkMk
 
-Just a Repo to show off the checkMK setup at work
+Just a Repo to show off the checkMK setup at work, without giving up company secrets :)
 
 ## RTS Control Room Dashboard
 
